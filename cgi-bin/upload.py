@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import cgi, os, cgitb, re, csv
 import zipfile as zip
 import time as t
